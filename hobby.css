@@ -1,0 +1,15 @@
+/* .Hobby {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  max-width: var(--max-width--pc);
+  margin: 0 auto;
+}
+
+.Hobby > .title {
+  color: var(--color--text);
+}
+
+.Hobby > .hobbyImage {
+  display: flex;
+} */
